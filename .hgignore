@@ -1,0 +1,8 @@
+syntax: glob
+
+*~
+libogc
+src
+pkg
+*.zst
+*.zst.sig
