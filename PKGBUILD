@@ -1,7 +1,7 @@
 _pkgname=libogc
 _branch=devel
 pkgname=${_pkgname}-dkosmari-git
-pkgver=2.13.0.r9.g9f6bd9cd
+pkgver=2.13.0.r15.gda3dd03f
 pkgrel=1
 pkgdesc='C library for GameCube and Wii targeting devkitPPC.'
 arch=('any')
